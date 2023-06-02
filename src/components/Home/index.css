@@ -1,0 +1,40 @@
+.usrstrCon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  width: 80%;
+}
+.userCon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.postCon {
+  min-width: 80%;
+}
+.failureView {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tryAgainBtn {
+  height: 30px;
+  width: 80px;
+  color: white;
+  border-radius: 10px;
+  background-color: #4094ef;
+
+  border-width: 0px;
+}
+.noPostsContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+.noSearchResultImage {
+  width: 70%;
+}

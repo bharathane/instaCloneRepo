@@ -1,0 +1,16 @@
+.btn {
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+  background-color: blue;
+  color: white;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.bgCon {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
